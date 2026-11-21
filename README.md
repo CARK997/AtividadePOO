@@ -14,20 +14,20 @@ O objetivo é praticar e aplicar os principais conceitos da programação orient
 
 ## Organização do projeto
 
-Os exercícios estão separados em pastas dentro do diretório `src`:
+Os exercícios estão separados em pastas dentro do diretório `src`, conforme a tabela abaixo:
 
 | Pasta | Conteúdo |
 |---|---|
-| Exercicio1 | Exercício 1 |
-| Exercicio2 | Exercício 2 |
-| Exercicio3 | Exercício 3 |
-| Exercicio4 | Exercício 4 |
-| Exercicio5 | Exercício 5 |
-| Exercicio6 | Exercício 6 |
-| Exercicio7 | Exercício 7 |
-| Exercicio8 | Exercício 8 |
-| Exercicio9 | Exercício 9 |
-| Exercicio10 | Exercício 10 |
+| `Exercicio1` | Abstração e sobrecarga de construtores — modelagem de uma classe Livro. |
+| `Exercicio2` | Encapsulamento — controle de acesso e operações em contas bancárias. |
+| `Exercicio3` | Sobrecarga de métodos — implementação de uma calculadora. |
+| `Exercicio4` | Herança — especialização de funcionários e cálculo de vencimentos. |
+| `Exercicio5` | Sobrescrita de métodos — utilização de `@Override` e `super`. |
+| `Exercicio6` | Classes abstratas — figuras geométricas e cálculo de áreas. |
+| `Exercicio7` | Interfaces — implementação de um mecanismo de autenticação. |
+| `Exercicio8` | Polimorfismo e coleções — simulação de animais com `ArrayList`. |
+| `Exercicio9` | Tratamento de exceções — criação de exceção personalizada. |
+| `Exercicio10` | Projeto integrador — sistema de carrinho de compras. |
 
 ## Conceitos praticados
 
